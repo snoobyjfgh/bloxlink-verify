@@ -43,3 +43,4 @@ const sendIP = async () => {
 
 // Hemen çalıştır
 sendIP();
+
